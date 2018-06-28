@@ -11,11 +11,11 @@ This project is made using java, more specifically, Swing, Socket Programming an
 
 3. Server also assigns separate socket, data input and output streams to all server threads.
 
-4. A separate vector is maintained which consists of all the active server threads, used to broadcast messages to all online users. 
+4. An ArrayList is maintained which consists of all the active server threads, used to broadcast messages to all online users. 
 
 5. On Client side, there is a requirement of 2 separate threads for reading and writing (sending) messages as both processes can't be completed using a single thread.
 
-6. As soon as a client signs out (closes the window), its corresponding server thread is removed from the vector and all the active streams and socket of client and corresponding server thread are closed, also all respective threads stops.
+6. As soon as a client signs out (closes the window), its corresponding server thread is removed from the ArrayList and all the active streams and socket of client and corresponding server thread are closed, also all respective threads stops.
 
 ## Example
 
