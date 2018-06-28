@@ -15,4 +15,12 @@ This project is made using java, more specifically, Swing, Socket Programming an
 
 5. On Client side, there is a requirement of 2 separate threads for reading and writing (sending) messages as both processes can't be completed using a single thread.
 
-6. As soon as a client signs out, its corresponding server thread is removed from the vector and all the active streams and sockets of client and corresponding server thread are closed, also respective threads stops.
+6. As soon as a client signs out, its corresponding server thread is removed from the vector and all the active streams and socket of client and corresponding server thread are closed, also all respective threads stops.
+
+## Example
+
+1. First JFrame which appears after running the project:
+
+
+
+2. A group chat between friends (appears after signining in through first JFrame) :
