@@ -21,6 +21,12 @@ This project is made using java, more specifically, Swing, Socket Programming an
 
 1. First JFrame which appears after running the project:
 
-
+![first_page](https://user-images.githubusercontent.com/32769719/42042950-e3cc619e-7b12-11e8-99a2-b73b91193628.JPG)
 
 2. A group chat between friends (appears after signining in through first JFrame) :
+
+![jay](https://user-images.githubusercontent.com/32769719/42042962-e83a93f4-7b12-11e8-90c6-d23bf3da8670.JPG)
+
+![akshay](https://user-images.githubusercontent.com/32769719/42042995-fd0fb2dc-7b12-11e8-9660-84bc74504aa0.JPG)
+
+![viral](https://user-images.githubusercontent.com/32769719/42043003-020679c4-7b13-11e8-9567-42c8676d08f5.JPG)
