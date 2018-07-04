@@ -1,7 +1,7 @@
 # Group-Chat-Application
 It's a Desktop Application that allows group chat in a Client-Server Network.
 
-This project is made using java, more specifically, Swing, Socket Programming and Multithreading.
+This project is made using java, more specifically, Swing, Socket Programming and concept of Multithreading.
 
 ## How does this project works ?
 
